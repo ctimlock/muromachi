@@ -1,18 +1,33 @@
 {
-    "name": "Muromachi",
-    "displayName": "Muromachi",
-    "description": "Muromachi VSCode colour theme",
-    "version": "0.0.1",
+    "name": "muromachi-deluxe",
+    "displayName": "Muromachi Deluxe",
+    "description": "Muromachi Deluxe VSCode color theme",
+    "version": "1.0.0",
+    "publisher": "Hoodnight",
     "engines": {
         "vscode": "^1.62.0"
     },
     "categories": [
         "Themes"
     ],
+    "keywords": [
+        "vscode",
+        "theme",
+        "contrast",
+        "rainglow", 
+        "goldfish",
+        "dark",
+        "orange",
+        "blue"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ctimlock/muromachi"
+    },
     "contributes": {
         "themes": [
             {
-                "label": "Muromachi",
+                "label": "Muromachi Deluxe",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Muromachi-color-theme.json"
             }

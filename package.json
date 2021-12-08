@@ -2,7 +2,7 @@
     "name": "muromachi-deluxe",
     "displayName": "Muromachi Deluxe",
     "description": "Muromachi Deluxe VSCode color theme",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "Hoodnight",
     "engines": {
         "vscode": "^1.62.0"
@@ -10,6 +10,10 @@
     "categories": [
         "Themes"
     ],
+    "icon": "images\\logo.png",
+    "galleryBanner": {
+        "color": "#1d1e1f",
+        "theme": "dark"},
     "keywords": [
         "vscode",
         "theme",

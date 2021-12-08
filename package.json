@@ -1,0 +1,21 @@
+{
+    "name": "Muromachi",
+    "displayName": "Muromachi",
+    "description": "Muromachi VSCode colour theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Muromachi",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Muromachi-color-theme.json"
+            }
+        ]
+    }
+}

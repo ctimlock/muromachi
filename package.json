@@ -36,5 +36,6 @@
                 "path": "./themes/Muromachi-color-theme.json"
             }
         ]
-    }
+    },
+    "license": "MIT"
 }

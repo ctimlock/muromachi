@@ -803,7 +803,7 @@
 		"name": "Attribute IDs",
 		"scope": "entity.other.attribute-name.id",
 		"settings": {
-		  "fontStyle": "normal",
+		  "fontStyle": "",
 		  "foreground": "#75d1e4"
 		}
 	  },
@@ -811,7 +811,7 @@
 		"name": "Attribute class",
 		"scope": "entity.other.attribute-name.class.css",
 		"settings": {
-		  "fontStyle": "normal",
+		  "fontStyle": "",
 		  "foreground": "#fb5310"
 		}
 	  },
@@ -1830,7 +1830,8 @@
 		"name": "js/ts italic",
 		"scope": "entity.other.attribute-name.js,entity.other.attribute-name.ts,entity.other.attribute-name.jsx,entity.other.attribute-name.tsx,variable.parameter,variable.language.super",
 		"settings": {
-		  "fontStyle": "italic"
+		  "fontStyle": "italic",
+		  "foreground": "#a7dbd8"
 		}
 	  },
 	  {

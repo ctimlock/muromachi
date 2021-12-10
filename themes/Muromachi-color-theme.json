@@ -336,7 +336,7 @@
 		"name": "js variable readwrite",
 		"scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
 		"settings": {
-		  "foreground": "#f8f8f2"
+		  "foreground": "#f8f8f2",
 		}
 	  },
 	  {
@@ -545,8 +545,30 @@
 		"name": "Variables",
 		"scope": "variable",
 		"settings": {
+		  // TODO: add "foreground": "#f8f8f2"
 		  "foreground": "#f8f8f2",
+		}
+	  },
+	  {
+		"name": "Variable Property",
+		"scope": "variable.other.property",
+		"settings": {
 		  "fontStyle": "bold"
+		}
+	  },
+	  {
+		"name": "Variable Object",
+		"scope": "variable.other.object",
+		"settings": {
+		  "fontStyle": "italic"
+		}
+	  },
+	  
+	  {
+		"name": "Variable ReadWrite",
+		"scope": "variable.other.readwrite",
+		"settings": {
+		  "fontStyle": "italic"
 		}
 	  },
 	  {

@@ -1857,6 +1857,13 @@
 		}
 	  },
 	  {
+		  "name": "jsx html",
+		  "scope": "entity.name.tag",
+		  "settings": {
+			"foreground": "#f38630"
+		  }
+	  },
+	  {
 		"name": "comment",
 		"scope": "comment.line.double-slash,comment.block.documentation",
 		"settings": {

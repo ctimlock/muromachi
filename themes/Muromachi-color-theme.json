@@ -319,6 +319,13 @@
 		}
 	  },
 	  {
+		"name": "css variable-argument",
+		"scope": "variable.argument.css",
+		"settings": {
+		  "foreground": "#f38630"
+		}
+	  },
+	  {
 		"name": "js/ts module",
 		"scope": "support.module.node,support.type.object.module,support.module.node",
 		"settings": {
